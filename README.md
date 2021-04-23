@@ -54,7 +54,7 @@
         <button class="tablinks" onclick="openCity(event, 'AboutMe')">About Me</button>
         <button class="tablinks" onclick="openCity(event, 'Skills')">Skills</button>
         <button class="tablinks" onclick="openCity(event, 'Projects')">Projects</button>
-        <button class="tablinks" onclick="openCity(event, 'Employment')">Employment History</button>
+        <button class="tablinks" onclick="openCity(event, 'Employment')">Employment</button>
     </div>
 
 
