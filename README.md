@@ -1,5 +1,6 @@
-<!DOCTYPE html>
+
 <html>
+    <h1>Kaylee Hamilton's Personal Website</h1>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
