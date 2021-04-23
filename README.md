@@ -129,8 +129,26 @@
     </div>
 
     <div id="Projects" class="tabcontent">
-        <h3>Projects</h3>
-        <p>Tokyo is the capital of Japan.</p>
+       
+       <h3>Projects</h3>
+        <div style="border:solid; border-width:4px">
+
+    <p>
+        <b>
+            As a student at OU, I have had the chance to work on many different projects in various team settings. A project I am most proud of is my Database Milestone Project
+            for my Databases course. My team and I were tasked to develop a funtional database for a fictional company to track information pertaining to their sales, customers,
+            production, and purchases. After meeting with our fictional client to discuss unclear demands, we started an ERD diagram to illustrate the reationships and help build our
+            entities in Microsoft SQl Server. We then implemented entities into SQL Sever and after a lot of denormalization and debugging, we created SQL statements that outputted
+            what the client needed.
+
+
+        </b>
+    </p>
+
+    <p> <b>Here is the final Database Project: <a href="https://drive.google.com/file/d/15ShfmBGJGAOcQkuGZbZQKja6nUTcTHiT/view?usp=sharing">Database Final Project</a></b></p>
+
+
+
     </div>
 
     <script>
