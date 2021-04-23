@@ -143,6 +143,22 @@
             </p>
         </div>
     </div>
+    
+     <div id="Employment" class="tabcontent">
+
+
+        <h3>Employment History</h3>
+    
+        <div style="border:solid; border-width:4px">
+
+            <p>
+                <b>
+            My most recent employment was with Buchanan Clarke Schlader in Colleyville, Texas during summer of 2020. I worked as a Forensic Accounting Intern where I helped estimate the forgone business income on several insurance claims. A lot of my tasks included data entry and data analysis for several large clients, creating partial financial statements, and working on a handful of litigation cases. During summer of 2021, I will be working with Paycom as a Database Administrator Intern in Oklahoma City, Oklahoma. During spring of 2022, I will be working with Deloitte as an Audit and Assurance Intern in Dallas, Texas. Finally, in summer of 2022, I will be working with Grant Thorton as an Audit Intern in Tulsa, Oklahoma.
+                 </b>
+            </p>
+        </div>
+    
+    </div>
 
     <div id="Projects" class="tabcontent">
     
@@ -165,32 +181,8 @@
 
 
     </div>
-    
-    
-    
-    
-    
-    
-    
-   <div id="Employment" class="tabcontent">
-
-
-        <h3>Employment History</h3>
-    
-        <div style="border:solid; border-width:4px">
-
-            <p>
-                <b>
-            My most recent employment was with Buchanan Clarke Schlader in Colleyville, Texas during summer of 2020. I worked as a Forensic Accounting Intern where I helped estimate the forgone business income on several insurance claims. A lot of my tasks included data entry and data analysis for several large clients, creating partial financial statements, and working on a handful of litigation cases. During summer of 2021, I will be working with Paycom as a Database Administrator Intern in Oklahoma City, Oklahoma. During spring of 2022, I will be working with Deloitte as an Audit and Assurance Intern in Dallas, Texas. Finally, in summer of 2022, I will be working with Grant Thorton as an Audit Intern in Tulsa, Oklahoma.
-                 </b>
-            </p>
-        </div>
-    
-    </div>
-    
-    
-    
-    
+        
+  
     
 
     <script>
