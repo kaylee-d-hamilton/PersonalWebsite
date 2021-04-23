@@ -57,13 +57,15 @@
         <button class="tablinks" onclick="openCity(event, 'Employment')">Employment History</button>
     </div>
 
+
+
+
     <div id="Home" class="tabcontent">
         <h3>Home</h3>
         <div>
             <p style="font-size: 20px; border:solid; border-width: 4px;">
                 <b>
-                    Hi! Welcome to my personal website. The purpose of this website is the showcase my accomplishments as an undergraduate student while developing my skills as a
-                    programmer using HTML, MVC, and CSS. Click <a href="https://drive.google.com/file/d/1zqvhulXFgi_MGrc3KndAV2IZffXgLN0w/view?usp=sharing">here</a> to view my resume and click <a href="https://www.linkedin.com/in/kayleedhamilton/">
+                    Hi! Welcome to my personal website. The purpose of this website is the showcase my accomplishments as an undergraduate student while developing my skills as a programmer using HTML, MVC, and CSS. Click <a href="https://drive.google.com/file/d/1zqvhulXFgi_MGrc3KndAV2IZffXgLN0w/view?usp=sharing">here</a> to view my resume and click <a href="https://www.linkedin.com/in/kayleedhamilton/">
                         here
                     </a> to view my LinkedIn profile.
                 </b>
@@ -75,6 +77,15 @@
             <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEzketI0BvxCg/profile-displayphoto-shrink_200_200/0/1590808563016?e=1624492800&v=beta&t=jkgz_g2NkEpUmhvntkV4muFiprBYASFuexRfRpgaorw" />
         </div>
     </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     <div id="AboutMe" class="tabcontent">
         <h3>About Me</h3>
@@ -105,10 +116,14 @@
 
         </div>
 
-
-
-
     </div>
+    
+    
+    
+    
+    
+    
+    
 
     <div id="Skills" class="tabcontent">
         <h3>Skills</h3>
@@ -130,7 +145,8 @@
     </div>
 
     <div id="Projects" class="tabcontent">
-       
+    
+
        <h3>Projects</h3>
         <div style="border:solid; border-width:4px">
 
@@ -150,18 +166,31 @@
 
     </div>
     
-    <div id="Employment" class="tabcontent">
-    <h3>Employment History</h3>
-    <div style="border:solid; border-width:4px">
+    
+    
+    
+    
+    
+    
+   <div id="Employment" class="tabcontent">
 
-    <p>
-        <b>
+
+        <h3>Employment History</h3>
+    
+        <div style="border:solid; border-width:4px">
+
+            <p>
+                <b>
             My most recent employment was with Buchanan Clarke Schlader in Colleyville, Texas during summer of 2020. I worked as a Forensic Accounting Intern where I helped estimate the forgone business income on several insurance claims. A lot of my tasks included data entry and data analysis for several large clients, creating partial financial statements, and working on a handful of litigation cases. During summer of 2021, I will be working with Paycom as a Database Administrator Intern in Oklahoma City, Oklahoma. During spring of 2022, I will be working with Deloitte as an Audit and Assurance Intern in Dallas, Texas. Finally, in summer of 2022, I will be working with Grant Thorton as an Audit Intern in Tulsa, Oklahoma.
-        </b>
-    </p>
-    </div>
+                 </b>
+            </p>
+        </div>
     
     </div>
+    
+    
+    
+    
     
 
     <script>
